@@ -4,3 +4,6 @@ h2{
 h2:hover{
     color:aquamarine;
 }
+#resume-item{
+    display:none;
+}
