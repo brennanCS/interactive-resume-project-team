@@ -1,11 +1,37 @@
-h2{
-    font-size: 30px;
-    height:30%;
-    right: 50%;
-}
-h2:hover{
+.resume-tag h2:hover{
     color:aquamarine;
+}
+#main-container{
+    display:flex;
+    width:50%;
+    flex-direction:column;
+}
+.resume-part{
+    border-bottom: 2px solid cadetblue;
+    height:20%;
 }
 .resume-item{
     display:none;
 }
+.resume-part h2{
+    margin:auto;
+    width:300px;
+    text-align:center;
+    font-size:30px;
+    margin-top:50px;
+    position:relative;
+}
+.placeholder{
+    background-color: cornflowerblue;
+    height:100%;
+    width:30%;
+}
+html,body{
+    height:100%;
+}
+#resume-title{
+    height:20%;
+    border-bottom: 2px solid cadetblue;
+    text-align:center;
+}
+#resume-title 
