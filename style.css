@@ -1,8 +1,7 @@
 h2{
     font-size: 30px;
     height:30%;
-    bottom: 0px;
-    right: 0px;
+    right: 50%;
 }
 h2:hover{
     color:aquamarine;
