@@ -1,5 +1,6 @@
 .resume-tag h2:hover{
     color:aquamarine;
+    cursor:pointer;
 }
 .active{
     color:aquamarine
